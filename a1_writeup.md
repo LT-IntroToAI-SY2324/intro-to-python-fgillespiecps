@@ -13,11 +13,12 @@ Mr. Berg will look at all your files to determine what you have completed.  If t
 ## Reflection Questions
 
 1. What is your initial thoughts about the python programming language?
-
+Looks similar to java but is different. Should take some time to learn.
 
 
 2. Describe some similarities and differences that you found between python and other programming languages you have used in the past?
-
+Names of commands are similar.
 
 
 3. What are some things that you learned through this assignment?
+I learned about the python coding language and the diffrerences it has from java.
